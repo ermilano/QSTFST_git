@@ -1,0 +1,15 @@
+Newest Qst dataset
+
+Going back to original 'final7.txt' file and combining several populations due to proximity on the map.
+New dataset called 'qstpopmerge'
+
+Combining Palmer lake (only one observation) with Noe.
+combining Smiths, Above Smiths and 72 Low --> Smiths
+Combining all golden high, goldenrod, goldenlow --> Golden
+
+Also merged the caribou locations for the final matched pops file
+
+**RENUMBERING POPULATIONS** (to help with R scripts)
+numbering them in decending latitude based on the Fst location of the matched pair:
+
+site	number	typeSawmillRd	1	fstMRS	1	qstSugarLoaf	2	fstLefthand	2	qstGrossDamRd	3	fst72med	3	qstRt72	4	fst72high	4	qstCopperdaleInn	5	fstSmiths	5	qstRollinsvilleRdRt15	6	fstcaribou	6	qstSofBlackhawk	7	fstGolden	7	qstBailey	8	fstovergualellapass	8	qstSpringCreek	9	fstspringcreek	9	qstWilkersonPass	10	fstwilkersonpass	10	qstcuchara	11	fstCuchara	11	qst

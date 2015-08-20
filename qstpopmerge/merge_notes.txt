@@ -1,0 +1,10 @@
+Newest Qst dataset
+
+Going back to original 'final7.txt' file and combining several populations due to proximity on the map.
+New dataset called 'qstpopmerge'
+
+Combining Palmer lake (only one observation) with Noe.
+combining Smiths, Above Smiths and 72 Low --> Smiths
+Combining all golden high, goldenmed, goldenlow --> Golden
+
+fst site	fst.num	qst SiteRt72	13	72highGrossDamRd	8	72medCopperdaleInn	4	Smiths3mSofElbert	6	noe		TopCaribouFoxton	7	hwy86SawmillRd	18	MRS		hwy105SofBlackhawk	3	GoldenSugarLoaf	17	LefthandSpringCreek	15	springcreekWilkersonPass	22	wilkersonpasscuchara	5	CucharaRollinsvilleRdRt15	14	caribou_rd175EBailey	1	westchicagocreek		GeorgetownBailey	2	overgualellapass
